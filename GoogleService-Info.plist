@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>644032500110-d5nfrj2c5iqv1d931lf0vfvl1oqgoebe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.644032500110-d5nfrj2c5iqv1d931lf0vfvl1oqgoebe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCGtTC2mZA55Sx0sHvYQielAzR8gR_ltqM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>644032500110</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.universidad.virtual.autosur</string>
+	<key>PROJECT_ID</key>
+	<string>universidad-virtual-autosur</string>
+	<key>STORAGE_BUCKET</key>
+	<string>universidad-virtual-autosur.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:644032500110:ios:95fde21251807f26fcd4df</string>
+</dict>
+</plist>

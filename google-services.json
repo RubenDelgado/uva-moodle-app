@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644032500110",
+    "project_id": "universidad-virtual-autosur",
+    "storage_bucket": "universidad-virtual-autosur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644032500110:android:714297575efb0388fcd4df",
+        "android_client_info": {
+          "package_name": "com.universidad.virtual.autosur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644032500110-siit5e9g02l6t4bsshpinmptp14vk8da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBl96xVG5H1Kyu-lqBdGMKrwemELhLl0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644032500110-siit5e9g02l6t4bsshpinmptp14vk8da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
