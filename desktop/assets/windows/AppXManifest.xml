@@ -9,7 +9,7 @@
     Version="3.9.4.0" />
   <Properties>
     <DisplayName>Universidad Virtual Autosur</DisplayName>
-    <PublisherDisplayName>Moodle Pty Ltd.</PublisherDisplayName>
+    <PublisherDisplayName>Ánima México</PublisherDisplayName>
     <Description>The official app for Moodle.</Description>
     <Logo>assets\StoreLogo.png</Logo>
   </Properties>
@@ -35,7 +35,7 @@
       <Extensions>
         <uap:Extension Category="windows.protocol">
           <uap:Protocol Name="moodlemobile">
-            <uap:DisplayName>Moodle Mobile URI Scheme</uap:DisplayName>
+            <uap:DisplayName>Ánima Méxicoe</uap:DisplayName>
           </uap:Protocol>
         </uap:Extension>
       </Extensions>
