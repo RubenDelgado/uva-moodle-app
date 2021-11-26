@@ -28,8 +28,8 @@ $blue:            #1599f1; // Link, background.
 $turquoise:       #06f1d2; // Acento.
 $green:           #004a75; // Acento.
 $red:             #fd3950;
-$orange:          #427ee3; // Acento (nunca texto).
-$yellow:          #ddac0b; // Acento (nunca texto).
+$orange:          #436399; // Acento (nunca texto).
+$yellow:          #ddac0b; // Acento (nunca texto).*****
 $purple:          #08304f; // Acento (nunca texto).
 
 // Branded apps customization
@@ -53,7 +53,7 @@ $orange-light:    lighten($orange, 10%) !default;
 $yellow-light:    mix($yellow, white, 20%) !default;
 $yellow-dark:     mix($yellow, black, 40%) !default;
 
-$core-color:          $orange !default;
+$core-color:          #253145 !default;
 $core-color-light:    lighten($core-color, 10%) !default;
 $core-color-dark:     darken($core-color, 10%) !default;
 
