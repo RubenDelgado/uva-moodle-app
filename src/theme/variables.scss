@@ -17,7 +17,7 @@ $app-direction: multi;
 // Paleta de colores  www
 
 $black:           #262725; // Encabezados, estándar de texto.
-$gray-darker:     #00793A; // FONDO MENU E ICONOSTexto (énfasis-detalle), marcador de posición, fondo.
+$gray-darker:     #253145; // FONDO MENU E ICONOSTexto (énfasis-detalle), marcador de posición, fondo. *****
 $gray-dark:       #141414; // Bordes (nunca texto).
 $gray:            #dbdbdb;
 $gray-light:      #f7f5f5; // Fondo.
@@ -26,11 +26,11 @@ $white:           #ffffff; // Fondo, texto invertido.
 
 $blue:            #1599f1; // Link, background.
 $turquoise:       #06f1d2; // Acento.
-$green:           #ff00aa; // Acento.
+$green:           #004a75; // Acento.
 $red:             #fd3950;
-$orange:          #65ac1e; // Acento (nunca texto).
+$orange:          #427ee3; // Acento (nunca texto).
 $yellow:          #ddac0b; // Acento (nunca texto).
-$purple:          #790047; // Acento (nunca texto).
+$purple:          #08304f; // Acento (nunca texto).
 
 // Branded apps customization
 // --------------------------------------------------
@@ -57,7 +57,7 @@ $core-color:          $orange !default;
 $core-color-light:    lighten($core-color, 10%) !default;
 $core-color-dark:     darken($core-color, 10%) !default;
 
-$core-course-image-background: #65ac1e !default;
+$core-course-image-background: #253145 !default;
 
 // Shared Variables
 // --------------------------------------------------
@@ -150,7 +150,7 @@ $button-md-box-shadow: 0 2px 2px 1px rgba(0, 0, 0, .14), 0 3px 1px -2px rgba(0, 
 
 $refresher-icon-color: $core-color !default;
 
-$core-online-color: #64AC1E;
+$core-online-color: #253145;
 
 $core-placeholder-color: $gray-dark !default;
 $core-select-placeholder-color: $core-placeholder-color !default;
