@@ -5,7 +5,7 @@
 #
 
 # Name of your app.
-APP="Universidad Virtual Autosur"
+APP="UVA"
 # The name of certificates you requested.
 APP_KEY="3rd Party Mac Developer Application: Moodle Pty Ltd (2NU57U5PAW)"
 INSTALLER_KEY="3rd Party Mac Developer Installer: Moodle Pty Ltd (2NU57U5PAW)"

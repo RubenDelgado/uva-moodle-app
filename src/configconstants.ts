@@ -15,8 +15,8 @@
 // tslint:disable: variable-name
 export class CoreConfigConstants {
     static app_id = 'com.universidad.virtual.autosur';
-    static appname = 'Universidad Virtual Autosur';
-    static desktopappname = 'Universidad Virtual Autosur';
+    static appname = 'UVA';
+    static desktopappname = 'UVA';
     static versioncode = 2;
     static versionname = '2.0.0';
     static cache_update_frequency_usually = 420000;
@@ -126,6 +126,6 @@ export class CoreConfigConstants {
         mac: 'id1255924440',
         linux: 'https://download.moodle.org/desktop/download.php?platform=linux&arch=64',
     };
-    static compilationtime = 1637959657850;
-    static lastcommit = '7e1b9ff6760e9841a487d2dc1a195002577ee66d';
+    static compilationtime = 1639183235634;
+    static lastcommit = 'ee891942679ab2ca4f2647c62ec84f051f2d48af';
 }

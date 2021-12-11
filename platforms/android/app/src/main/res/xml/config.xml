@@ -122,8 +122,8 @@
         <param name="android-package" value="cordova.plugins.Diagnostic_External_Storage" />
         <param name="onload" value="true" />
     </feature>
-    <name>Universidad Virtual Autosur</name>
-    <description>Moodle official para Universidad Virtual Autosur</description>
+    <name>UVA</name>
+    <description>Moodle official para UVA</description>
     <author email="anima.scanda@gmail.com" href="https://animamexico.com/">Ánima México</author>
     <content src="index.html" />
     <access origin="*" />
