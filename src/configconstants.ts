@@ -17,8 +17,8 @@ export class CoreConfigConstants {
     static app_id = 'com.universidad.virtual.autosur';
     static appname = 'UVA';
     static desktopappname = 'UVA';
-    static versioncode = 2;
-    static versionname = '2.0.0';
+    static versioncode = 3;
+    static versionname = '3.0.0';
     static cache_update_frequency_usually = 420000;
     static cache_update_frequency_often = 1200000;
     static cache_update_frequency_sometimes = 3600000;
@@ -126,6 +126,6 @@ export class CoreConfigConstants {
         mac: 'id1255924440',
         linux: 'https://download.moodle.org/desktop/download.php?platform=linux&arch=64',
     };
-    static compilationtime = 1640060545860;
-    static lastcommit = 'f8640084173624040f14e52278b20f94ef406a46';
+    static compilationtime = 1642796235567;
+    static lastcommit = 'c1340d2f5fa4fa48de3f53d08a65562d5659bec2';
 }
